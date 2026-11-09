@@ -15,4 +15,4 @@ to show for each country
 
 ## The Dashboard
 
-[image of the dashboard](Images/Excel_dashboard.png)
+![image of the dashboard](Images/Excel_dashboard.png)
